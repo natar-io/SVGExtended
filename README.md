@@ -4,7 +4,7 @@ Processing library to extend the support of SVGs: image and text support.
 
 It is developped for [Soby](https://github.com/poqudrof/Soby), and [PapARt](https://github.com/poqudrof/PapARt). 
 
-Project page by RealityTech: https://rea.lity.tech/SVGExtended
+Project page on Natar: https://doc.natar.fr/doc/processing-libraries/svgextended
 
 ## How to use ? 
 
